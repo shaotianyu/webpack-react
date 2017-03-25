@@ -1,5 +1,9 @@
 # webpack-react
 
+#基于webpack+react+babel+es6
+
+里面大部分是基于webpack 1.x 的配置方式
+
 git到本地后，
 
 npm install
