@@ -1,5 +1,5 @@
-# 这个脚手架配置时间于2016年底，仅供个人资料参考
-# webpack-react
+### 这个脚手架配置时间于2016年底，仅供个人资料参考
+### webpack-react
 
 #基于webpack+react+babel+es6
 
